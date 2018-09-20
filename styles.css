@@ -11,13 +11,13 @@
     margin-right: 10px;
     margin-left: 10px;
     cursor: pointer;
-    background: grey;
+    background: orange;
     border-radius: 3px;
   }
   
   /* Getting rid of the default link styles here */
   .navbar li a {
-    color: #000;
+    color: cornflowerblue;
     text-decoration: none;
   }
   
