@@ -7,11 +7,11 @@
   /* Making our navbar li's inline-block elements this makes it so we can have multiple on the same line. Floats could have been used too */
   .navbar li {
     display: inline-block;
-    padding: 20px;
+    padding: 10px;
     margin-right: 10px;
     margin-left: 10px;
     cursor: pointer;
-    background: #fff;
+    background: grey;
     border-radius: 3px;
   }
   
